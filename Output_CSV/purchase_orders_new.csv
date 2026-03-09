@@ -1,0 +1,6 @@
+path,Merchant,Purchase_Order_Number,Purchase_Order_Date,Total
+dbfs:/Volumes/idp/default/idp_project/purchase_order_hawthorne_25.pdf,Riverbend Marketing Studio,PO-24371,1/6/2025,"$5,219.45 "
+dbfs:/Volumes/idp/default/idp_project/purchase_order_keystone_25.pdf,Keystone Packaging Ltd.,PO-24564,1/28/2025,"$19,564.43 "
+dbfs:/Volumes/idp/default/idp_project/purchase_order_pinecrest_25.pdf,Northstar IT Services LLC,PO-25862,1/7/2025,"$16,829.36 "
+dbfs:/Volumes/idp/default/idp_project/purchase_order_summit_25.pdf,Blue Ridge Office Supply Co.,PO-29038,1/23/2025,"$6,148.86 "
+dbfs:/Volumes/idp/default/idp_project/purchase_order_summit_25_2.pdf,Summit Industrial Parts,PO-29446,1/7/2025,"$15,771.89 "

@@ -1,0 +1,11 @@
+path,Merchant,Receipt_Number,Transaction_Date,Total,Payment_Method
+dbfs:/Volumes/idp/default/idp_project/receipt_1013632.pdf,QuickShip Logistics,R-612262,2025-01-28,$154.58,Visa **** 5114
+dbfs:/Volumes/idp/default/idp_project/receipt_17924.pdf,Green Leaf Grocers,R-842225,2025-01-08,$151.85,Visa **** 1964
+dbfs:/Volumes/idp/default/idp_project/receipt_226724.pdf,Metro Fuel Mart,R-922733,2025-01-19,$156.51,Visa **** 8749
+dbfs:/Volumes/idp/default/idp_project/receipt_30676.pdf,Staple & Stone Cafe,R-662336,2025-01-08,$128.66,Visa **** 8350
+dbfs:/Volumes/idp/default/idp_project/receipt_41151.pdf,Skyline Parking,R-347861,2025-01-03,$288.16,Visa **** 3724
+dbfs:/Volumes/idp/default/idp_project/receipt_523267.pdf,Corner Hardware,R-262316,2025-01-22,$216.84,Visa **** 4111
+dbfs:/Volumes/idp/default/idp_project/receipt_63355.pdf,Transit Rail Ticketing,R-723939,2025-01-03,$98.80,Visa
+dbfs:/Volumes/idp/default/idp_project/receipt_715673.pdf,Riverwalk Books,R-850981,2025-01-09,$188.21,Visa
+dbfs:/Volumes/idp/default/idp_project/receipt_813526.pdf,Bright Dental Clinic,R-323508,2025-01-04,$246.69,Visa **** 9288
+dbfs:/Volumes/idp/default/idp_project/receipt_913636.pdf,CityPrint Copy Center,R-795613,2025-01-22,$109.76,Visa **** 2697

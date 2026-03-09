@@ -1,0 +1,4 @@
+path,Merchant,Purchase_Order_Number,Purchase_Order_Date,Total
+dbfs:/Volumes/idp/default/idp_project/purchase_order_hawthorne_25.pdf,Riverbend Marketing Studio,PO-24371,2025-01-06,"$5,219.45"
+dbfs:/Volumes/idp/default/idp_project/purchase_order_keystone_25.pdf,Keystone Packaging Ltd.,PO-24564,2025-01-28,"$19,564.43"
+dbfs:/Volumes/idp/default/idp_project/purchase_order_summit_25.pdf,Blue Ridge Office Supply Co.,PO-29038,2025-01-23,"$6,148.86"
